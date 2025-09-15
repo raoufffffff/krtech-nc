@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Pack promo",
+    "image": "https://i.ibb.co/4nyjvTWt/blob.webp",
+    "show": true,
+    "id": 1
+  }
+]
