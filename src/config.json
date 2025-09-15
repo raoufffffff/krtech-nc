@@ -3,12 +3,12 @@
   "logo": "https://i.ibb.co/VpJjj9JD/blob.webp",
   "store_name": null,
   "main_color": "#4e44ad",
-  "phone": "ben ammar ",
+  "phone": "0698320894",
   "repoName": "krtech-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
-  "email": "raouf.hamoudi.r@gmail.com",
+  "email": "kerbadjrtech@gmail.com",
   "tiktokP": "",
   "FacebookP": "",
   "header": {
@@ -27,5 +27,7 @@
     "media": true,
     "titleText": "Thank you for your order!",
     "aboutText": "We will contact you soon. Have a nice day."
-  }
+  },
+  "whatsapp": "0698320894",
+  "viber": "0698320894"
 }
